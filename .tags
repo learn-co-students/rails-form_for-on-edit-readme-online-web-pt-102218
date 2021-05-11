@@ -1,0 +1,91 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ApplicationHelper	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	module	line:1
+* Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/assets/stylesheets/application.css	/^ * Any CSS and SCSS file within this directory, lib\/assets\/stylesheets, vendor\/assets\/stylesheets,$/;"	function	line:5
+Post	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/models/post.rb	/^class Post < ActiveRecord::Base$/;"	class	line:1
+ApplicationController	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	class	line:1
+PostsController	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^class PostsController < ApplicationController$/;"	class	line:1
+index	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def index$/;"	method	line:2	class:PostsController
+show	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def show$/;"	method	line:6	class:PostsController
+new	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def new$/;"	method	line:10	class:PostsController
+create	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def create$/;"	method	line:14	class:PostsController
+edit	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def edit$/;"	method	line:22	class:PostsController
+update	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/app/controllers/posts_controller.rb	/^	def update$/;"	method	line:26	class:PostsController
+default	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^default: &default$/;"	function	line:7
+adapter	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  adapter: sqlite3$/;"	function	line:8
+pool	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  pool: 5$/;"	function	line:9
+timeout	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  timeout: 5000$/;"	function	line:10
+development	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^development:$/;"	function	line:12
+database	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  database: db\/development.sqlite3$/;"	function	line:14
+test	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^test:$/;"	function	line:19
+database	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  database: db\/test.sqlite3$/;"	function	line:21
+production	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^production:$/;"	function	line:23
+database	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/database.yml	/^  database: db\/production.sqlite3$/;"	function	line:25
+en	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/locales/en.yml	/^en:$/;"	function	line:22
+hello	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/locales/en.yml	/^  hello: "Hello world"$/;"	function	line:23
+BlogFlash	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/application.rb	/^module BlogFlash$/;"	module	line:9
+Application	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/application.rb	/^  class Application < Rails::Application$/;"	class	line:10	class:BlogFlash
+development	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^development:$/;"	function	line:1
+adapter	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^  adapter: async$/;"	function	line:2
+test	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^test:$/;"	function	line:4
+adapter	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^  adapter: async$/;"	function	line:5
+production	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^production:$/;"	function	line:7
+adapter	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^  adapter: redis$/;"	function	line:8
+url	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/cable.yml	/^  url: redis:\/\/localhost:6379\/1$/;"	function	line:9
+development	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^development:$/;"	function	line:13
+secret_key_base	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^  secret_key_base: 0042b1df7951a16ac88d5d055f18356969a339298895fd4a5d3537d4481ec19f97d672cd2336caa713f234c8bd0d6e80691606a60314e2025faec70fb19b6254$/;"	function	line:14
+test	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^test:$/;"	function	line:16
+secret_key_base	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^  secret_key_base: c4395569a6d874d8b65ca9d584fe86ce54687a927fb3989390073c9eda75de9ab75d8230fa43b643784e2cbc6bfd97a0c10407a3270ea735240e72290baeb94a$/;"	function	line:17
+production	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^production:$/;"	function	line:21
+secret_key_base	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/config/secrets.yml	/^  secret_key_base: <%= ENV["SECRET_KEY_BASE"] %>$/;"	function	line:22
+CreatePosts	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/db/migrate/20151230232412_create_posts.rb	/^class CreatePosts < ActiveRecord::Migration$/;"	class	line:1
+change	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/db/migrate/20151230232412_create_posts.rb	/^  def change$/;"	method	line:2	class:CreatePosts
+Contributing to Learn.co Curriculum	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+system!	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/bin/update	/^def system!(*args)$/;"	method	line:9
+system!	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/bin/setup	/^def system!(*args)$/;"	method	line:9
+`form_for` on Edit	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^# `form_for` on Edit$/;"	function	line:1
+Recap of `form_tag`	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^## Recap of `form_tag`$/;"	function	line:6
+Issues with using `form_tag`	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^## Issues with using `form_tag`$/;"	function	line:11
+Difference between `form_for` and `form_tag`	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^## Difference between `form_for` and `form_tag`$/;"	function	line:22
+Implementation of `form_for`	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^## Implementation of `form_for`$/;"	function	line:41
+Summary	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/README.md	/^## Summary$/;"	function	line:143
+Learn.co Educational Content License	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+html	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^<html>$/;"	function	line:2
+head	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^<head>$/;"	function	line:3
+title	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^  <title>The page you were looking for doesn't exist (404)<\/title>$/;"	function	line:4
+meta	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^  <style>$/;"	function	line:6
+body	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^<body>$/;"	function	line:57
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^  <div class="dialog">$/;"	function	line:59
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^    <div>$/;"	function	line:60
+h	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^      <h1>The page you were looking for doesn't exist.<\/h1>$/;"	function	line:61
+p	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^      <p>You may have mistyped the address or the page may have moved.<\/p>$/;"	function	line:62
+p	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/404.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
+html	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^<html>$/;"	function	line:2
+head	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^<head>$/;"	function	line:3
+title	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^  <title>We're sorry, but something went wrong (500)<\/title>$/;"	function	line:4
+meta	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^  <style>$/;"	function	line:6
+body	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^<body>$/;"	function	line:57
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^  <div class="dialog">$/;"	function	line:59
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^    <div>$/;"	function	line:60
+h	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^      <h1>We're sorry, but something went wrong.<\/h1>$/;"	function	line:61
+p	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/500.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:63
+html	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^<html>$/;"	function	line:2
+head	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^<head>$/;"	function	line:3
+title	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^  <title>The change you wanted was rejected (422)<\/title>$/;"	function	line:4
+meta	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^  <meta name="viewport" content="width=device-width,initial-scale=1">$/;"	function	line:5
+style	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^  <style>$/;"	function	line:6
+body	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^<body>$/;"	function	line:57
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^  <div class="dialog">$/;"	function	line:59
+div	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^    <div>$/;"	function	line:60
+h	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^      <h1>The change you wanted was rejected.<\/h1>$/;"	function	line:61
+p	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^      <p>Maybe you tried to change something you didn't have access to.<\/p>$/;"	function	line:62
+p	/home/paul/code/labs/rails-form_for-on-edit-readme-online-web-pt-102218/public/422.html	/^    <p>If you are the application owner check the logs for more information.<\/p>$/;"	function	line:64
